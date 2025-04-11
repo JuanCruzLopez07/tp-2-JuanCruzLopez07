@@ -5,9 +5,9 @@ def change():
     print(float(expense))
     print("Dinero recibido")
     print(int(money))
-    
+    print("\t")
     print("Vuelto")
-
+    pint("\t")
     print("Pesos:")
     print(int(money-expense))
     print("Centavos:")
